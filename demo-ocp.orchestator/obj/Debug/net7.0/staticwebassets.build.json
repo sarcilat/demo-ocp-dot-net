@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PeFHaRcgQEI72wqRpSQy8oV98h0vRMitXZr0RkfWbcc=",
+  "Source": "demo-ocp.orchestator",
+  "BasePath": "_content/demo-ocp.orchestator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
